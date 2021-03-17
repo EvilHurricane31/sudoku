@@ -27,6 +27,10 @@ if you hit N to much the game crashes
 
 if when starting load you type RAINBOW! instead of new or load it will make a board that can change colors just not a perfect rainbow
 
+if the cursor turns red it means you can't put a number there and to fix it you just click again
+
+also board will sometimes be unplayable im working on fixing that 
+
 if you get any error find bugs please let me know throught github
 
 also fist time putting code on here so sorry if its not perfect
