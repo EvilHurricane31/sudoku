@@ -34,3 +34,10 @@ also board will sometimes be unplayable im working on fixing that
 if you get any error find bugs please let me know throught github
 
 also fist time putting code on here so sorry if its not perfect
+
+imports are 
+pyglet
+ast
+numpy
+
+the imports should download them selfs but if not there they are
